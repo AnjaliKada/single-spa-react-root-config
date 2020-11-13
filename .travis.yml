@@ -17,4 +17,4 @@ deploy:
   local_dir: dist
   skip_cleanup: true
   on:
-    branch: master
+    branch: main
